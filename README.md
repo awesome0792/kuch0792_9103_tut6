@@ -1,41 +1,26 @@
-# kuch0792_9103_tut6
+# IDEA 9103 Creative Coding 
 
-This is my first local change to the repo!
+## Imaging Technique Inspiration
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5 
-###### Header 6
+### [**Light Sculpture of Flames**](https://www.teamlab.art/ew/light_sculpture_of_flames/living_digital_space/) (*teamLab*)
 
+This artwork uses **time-based animation**, in which many dots are placed, and their colors fluctuate over time. These dots will be aligned in a **three-dimensional space**, allowing the artwork to appear different as audiences change their viewpoints. 
+![An image of an artwork 1](/image/inspiration1.webp)
 
-**Bold text** or __Bold Text__
-*Italic Text* or _Italic Text_
+#### Benefit for an artwork, "Emily Kame Kngwarreye"
+- **Interactive 3D dots** moving based on *user inputs* will allow viewers to engage with the piece.
+- Including **randomness in color and time variations** can enhance the patterns found in her work, aligning the animation's fluidity with the original concept.
+![An image of an artwork 2](/image/inspiration2.webp)
 
-- Item 1
-- Item 2
+## Coding Technique Exploration
 
-* Item 1
-* Item 2
-    - Item 2
-    - Item 4
+### Coding techniques
+[**MandelBulb 3D Fractal**](https://www.youtube.com/watch?v=NJCiUVGiNyA&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=227) in `p5.js`
 
-1. Item2
-1. Item2
+![An image of coding techniques](/image/coding_technique.png)
 
-[Link Text](https://ww.google.com)
+**Creating 3D Depth:**
+Employing triplex numbers and a Spherical coordinate system can generate fractal-like structures with dots that form complex patterns in a three-dimensional space. 
 
-![An image of a cat](https://placekitten.com/200/300)
-
-![AN image of a Mona Lisa](/image/Mona%20Lisa%20by%20Leonardo%20da%20Vinci%20500x700.jpg)
-
-This sentence is about the `draw()` function.
-
-```
-function setup(){
-    CreateCanvas(400,400);
-}
-```
-
-> This is a quote
+**User Perspective Shifts:**
+Using Peasycam facilitates rotation, scaling, and shifting transformations in 3D space. This means the dots can be manipulated to change angles and perspectives as viewers interact with the artwork, enhancing the three-dimensional illusion when users move cursors.
