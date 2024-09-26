@@ -5,11 +5,13 @@
 ### [**Light Sculpture of Flames**](https://www.teamlab.art/ew/light_sculpture_of_flames/living_digital_space/) (*teamLab*)
 
 This artwork uses **time-based animation**, in which many dots are placed, and their colors fluctuate over time. These dots will be aligned in a **three-dimensional space**, allowing the artwork to appear different as audiences change their viewpoints. 
+
 ![An image of an artwork 1](/image/inspiration1.webp)
 
 #### Benefit for an artwork, "Emily Kame Kngwarreye"
 - **Interactive 3D dots** moving based on *user inputs* will allow viewers to engage with the piece.
 - Including **randomness in color and time variations** can enhance the patterns found in her work, aligning the animation's fluidity with the original concept.
+
 ![An image of an artwork 2](/image/inspiration2.webp)
 
 ## Coding Technique Exploration
